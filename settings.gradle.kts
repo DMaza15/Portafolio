@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Lab02-DM"
 include(":app")
+include(":consola")
